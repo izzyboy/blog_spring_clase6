@@ -193,7 +193,18 @@
 			<artifactId>cglib</artifactId>
 			<version>2.2</version>
 		</dependency>
-
+	<!-- LIBRERIA PARA POLL DE CONEXIONES -->
+	<dependency>
+			<groupId>c3p0</groupId>
+			<artifactId>c3p0</artifactId>
+			<version>0.9.1.2</version>
+		</dependency>
+		<!-- LIBRERIA PARA DRIVER DE POSTGRESSQL -->
+		<dependency>
+			<groupId>postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<version>9.1-901.jdbc4</version>
+		</dependency>
 
 
 
